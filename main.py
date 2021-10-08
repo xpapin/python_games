@@ -1,1 +1,1 @@
-print("hi pyxel")
+print("hi pyxel", "and bye!",sep=', ')
